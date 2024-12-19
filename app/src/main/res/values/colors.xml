@@ -2,11 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="orange">#FF902A</color>
-    <color name="yellow">#FFC106</color>
-    <color name="darkGrey">#4E4E4E</color>
-    <color name="grey">#8D8D8D</color>
-    <color name="darkBrown">#34190E</color>
-    <color name="lightOrange">#E6C59E</color>
-    <color name="lightYellow">#F2E8DB</color>
+    <color name="orange">#ff902a</color>
+    <color name="yellow">#ffc106</color>
+    <color name="darkgrey">#4e4e4e</color>
+    <color name="grey">#8d8d8d</color>
+    <color name="darkbrown">#34190e</color>
+    <color name="lightorange">#e6c59e</color>
+    <color name="lightyellow">#f2e8db</color>
+
 </resources>

@@ -11,7 +11,7 @@ import ru.mochalin.coffeegoandroid.MainActivity
 import ru.mochalin.coffeegoandroid.R
 import ru.mochalin.coffeegoandroid.databinding.ActivityIntroBinding
 
-class IntroActivity : AppCompatActivity() {
+class IntroActivity : BaseActivity() {
     lateinit var binding: ActivityIntroBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
