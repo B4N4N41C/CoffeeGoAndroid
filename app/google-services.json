@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "429797956070",
-    "project_id": "coffeeshopapp-7b68c",
-    "storage_bucket": "coffeeshopapp-7b68c.appspot.com"
+    "project_number": "634050493403",
+    "firebase_url": "https://coffeego-51e6e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "coffeego-51e6e",
+    "storage_bucket": "coffeego-51e6e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:429797956070:android:599a22dbe666edbe35de27",
+        "mobilesdk_app_id": "1:634050493403:android:9da04e549a2851c57505fe",
         "android_client_info": {
           "package_name": "ru.mochalin.coffeegoandroid"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA_hFkqfvwSw1OW8mU4iE2U2NDyP42nvUQ"
+          "current_key": "AIzaSyCgyzmf5U62ROSbwUUNnBD8MbTxbT2vY0Y"
         }
       ],
       "services": {
