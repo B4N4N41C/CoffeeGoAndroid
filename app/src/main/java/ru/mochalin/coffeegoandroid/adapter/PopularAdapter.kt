@@ -4,10 +4,9 @@ import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import androidx.core.view.get
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import ru.mochalin.coffeegoandroid.activity.DetailsActivity
+import ru.mochalin.coffeegoandroid.Activity.DetailsActivity
 import ru.mochalin.coffeegoandroid.databinding.ViewholderPopularBinding
 import ru.mochalin.coffeegoandroid.model.ItemsModel
 

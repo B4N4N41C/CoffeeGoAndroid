@@ -1,9 +1,7 @@
-package ru.mochalin.coffeegoandroid.Helper
+package ru.mochalin.coffeegoandroid.helper
 
 import android.content.Context
 import android.widget.Toast
-import ru.mochalin.coffeegoandroid.helper.ChangeNumberItemsListener
-import ru.mochalin.coffeegoandroid.helper.TinyDB
 import ru.mochalin.coffeegoandroid.model.ItemsModel
 
 

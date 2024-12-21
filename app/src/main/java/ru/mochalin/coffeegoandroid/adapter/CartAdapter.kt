@@ -10,7 +10,7 @@ import com.bumptech.glide.request.RequestOptions
 import ru.mochalin.coffeegoandroid.databinding.ViewholderCartBinding
 import ru.mochalin.coffeegoandroid.helper.ChangeNumberItemsListener
 import ru.mochalin.coffeegoandroid.model.ItemsModel
-import ru.mochalin.coffeegoandroid.Helper.ManagmentCart
+import ru.mochalin.coffeegoandroid.helper.ManagmentCart
 
 class CartAdapter(
     private val listItemSelected:ArrayList<ItemsModel>,

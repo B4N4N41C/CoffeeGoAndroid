@@ -1,19 +1,18 @@
-package ru.mochalin.coffeegoandroid.activity
+package ru.mochalin.coffeegoandroid.Activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import ru.mochalin.coffeegoandroid.R
 import ru.mochalin.coffeegoandroid.adapter.CartAdapter
 import ru.mochalin.coffeegoandroid.databinding.ActivityCartBinding
+import ru.mochalin.coffeegoandroid.R
 import ru.mochalin.coffeegoandroid.helper.ChangeNumberItemsListener
-import ru.mochalin.coffeegoandroid.Helper.ManagmentCart
+import ru.mochalin.coffeegoandroid.helper.ManagmentCart
 
 class CartActivity : BaseActivity() {
     // Binding
     lateinit var binding:ActivityCartBinding
     // management cart
-    lateinit var management:ManagmentCart
+    lateinit var management: ManagmentCart
     private var tax:Double=0.0
 
     //..............................................//

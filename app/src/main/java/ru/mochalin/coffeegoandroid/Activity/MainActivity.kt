@@ -1,13 +1,13 @@
-package ru.mochalin.coffeegoandroid.activity
+package ru.mochalin.coffeegoandroid.Activity
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import ru.mochalin.coffeegoandroid.adapter.CategoryAdapter
+import ru.mochalin.coffeegoandroid.R
+import android.view.LayoutInflater
 import ru.mochalin.coffeegoandroid.adapter.OffersAdapter
 import ru.mochalin.coffeegoandroid.adapter.PopularAdapter
 import ru.mochalin.coffeegoandroid.databinding.ActivityMainBinding

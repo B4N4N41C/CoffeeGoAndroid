@@ -1,18 +1,14 @@
-package ru.mochalin.coffeegoandroid.activity
+package ru.mochalin.coffeegoandroid.Activity
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.RoundedCorner
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.request.RequestOptions
-import ru.mochalin.coffeegoandroid.R
 import ru.mochalin.coffeegoandroid.databinding.ActivityDetailsBinding
-import ru.mochalin.coffeegoandroid.databinding.ActivityMainBinding
 import ru.mochalin.coffeegoandroid.model.ItemsModel
-import ru.mochalin.coffeegoandroid.Helper.ManagmentCart
+import ru.mochalin.coffeegoandroid.helper.ManagmentCart
 
 class DetailsActivity : BaseActivity() {
     // Binding
